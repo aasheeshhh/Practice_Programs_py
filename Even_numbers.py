@@ -14,3 +14,11 @@ elif(choice==2):
             continue
         print(i)
 """Prints Even number"""
+
+'''
+if(n%2==0):
+    print("Even number\n")
+else:
+    print("Odd number\n")
+'''   
+
